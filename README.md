@@ -57,9 +57,11 @@ Pencatat aktivitas harian, dibangun dengan TypeScript.
 
 ## Tulisan
 
-Sesekali saya menulis di Kompasiana — topik ekonomi, teknologi, dan isu-isu yang sedang saya pikirkan.
+Sesekali saya menulis di Kompasiana, Wattpad dan Gramedia Writing project.
 
 → [kompasiana.com/celfingunpernanda1709](https://www.kompasiana.com/celfingunpernanda1709)
+→ [wattpad.com/user/celfaware](https://wattpad.com/user/celfaware)
+→ [https://gwp.id/author/74242](https://gwp.id/author/74242)
 
 ---
 
